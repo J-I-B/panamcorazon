@@ -6,27 +6,174 @@
     <description>Recent content in Tags on Enterprise Technology Insights</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Access Control</title>
-      <link>http://localhost:1313/tags/access-control/</link>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/access-control/</guid>
+      <title>Audit Management</title>
+      <link>http://localhost:1313/tags/audit-management/</link>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/audit-management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Governance</title>
+      <link>http://localhost:1313/tags/governance/</link>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/governance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Regulatory Compliance</title>
+      <link>http://localhost:1313/tags/regulatory-compliance/</link>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/regulatory-compliance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Risk Management</title>
+      <link>http://localhost:1313/tags/risk-management/</link>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/risk-management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security Compliance</title>
+      <link>http://localhost:1313/tags/security-compliance/</link>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/security-compliance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security Policy</title>
+      <link>http://localhost:1313/tags/security-policy/</link>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/security-policy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security Standards</title>
+      <link>http://localhost:1313/tags/security-standards/</link>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/security-standards/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Application Security</title>
+      <link>http://localhost:1313/tags/application-security/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/application-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Code Security</title>
+      <link>http://localhost:1313/tags/code-security/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/code-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Secure Development</title>
+      <link>http://localhost:1313/tags/secure-development/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/secure-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security Architecture</title>
+      <link>http://localhost:1313/tags/security-architecture/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/security-architecture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security Testing</title>
+      <link>http://localhost:1313/tags/security-testing/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/security-testing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vulnerability Management</title>
+      <link>http://localhost:1313/tags/vulnerability-management/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/vulnerability-management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automation</title>
+      <link>http://localhost:1313/tags/automation/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CI/CD</title>
+      <link>http://localhost:1313/tags/ci/cd/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ci/cd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DevOps</title>
+      <link>http://localhost:1313/tags/devops/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DevSecOps</title>
+      <link>http://localhost:1313/tags/devsecops/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/devsecops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>http://localhost:1313/tags/security/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cloud Infrastructure</title>
+      <link>http://localhost:1313/tags/cloud-infrastructure/</link>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cloud-infrastructure/</guid>
       <description></description>
     </item>
     <item>
       <title>Cloud Security</title>
       <link>http://localhost:1313/tags/cloud-security/</link>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/cloud-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Compliance</title>
+      <link>http://localhost:1313/tags/compliance/</link>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/compliance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Protection</title>
+      <link>http://localhost:1313/tags/data-protection/</link>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/data-protection/</guid>
       <description></description>
     </item>
     <item>
       <title>Enterprise Security</title>
       <link>http://localhost:1313/tags/enterprise-security/</link>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/enterprise-security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Access Control</title>
+      <link>http://localhost:1313/tags/access-control/</link>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/access-control/</guid>
       <description></description>
     </item>
     <item>
@@ -44,17 +191,24 @@
       <description></description>
     </item>
     <item>
-      <title>Security Architecture</title>
-      <link>http://localhost:1313/tags/security-architecture/</link>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/security-architecture/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Zero Trust</title>
       <link>http://localhost:1313/tags/zero-trust/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/zero-trust/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AR/VR</title>
+      <link>http://localhost:1313/tags/ar/vr/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ar/vr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Best Practices</title>
+      <link>http://localhost:1313/tags/best-practices/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/best-practices/</guid>
       <description></description>
     </item>
     <item>
@@ -79,10 +233,38 @@
       <description></description>
     </item>
     <item>
+      <title>Digital Transformation</title>
+      <link>http://localhost:1313/tags/digital-transformation/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/digital-transformation/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Enterprise Technology</title>
       <link>http://localhost:1313/tags/enterprise-technology/</link>
       <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/enterprise-technology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Extended Reality</title>
+      <link>http://localhost:1313/tags/extended-reality/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/extended-reality/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Infrastructure as Code</title>
+      <link>http://localhost:1313/tags/infrastructure-as-code/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/infrastructure-as-code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Innovation</title>
+      <link>http://localhost:1313/tags/innovation/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/innovation/</guid>
       <description></description>
     </item>
     <item>
@@ -93,10 +275,38 @@
       <description></description>
     </item>
     <item>
-      <title>Compliance</title>
-      <link>http://localhost:1313/tags/compliance/</link>
+      <title>Terraform</title>
+      <link>http://localhost:1313/tags/terraform/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/terraform/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Edge Computing</title>
+      <link>http://localhost:1313/tags/edge-computing/</link>
       <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/compliance/</guid>
+      <guid>http://localhost:1313/tags/edge-computing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IoT</title>
+      <link>http://localhost:1313/tags/iot/</link>
+      <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/iot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Testing</title>
+      <link>http://localhost:1313/tags/testing/</link>
+      <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/testing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blockchain</title>
+      <link>http://localhost:1313/tags/blockchain/</link>
+      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/blockchain/</guid>
       <description></description>
     </item>
     <item>
@@ -107,6 +317,20 @@
       <description></description>
     </item>
     <item>
+      <title>Monitoring</title>
+      <link>http://localhost:1313/tags/monitoring/</link>
+      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/monitoring/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reliability</title>
+      <link>http://localhost:1313/tags/reliability/</link>
+      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/reliability/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Scalability</title>
       <link>http://localhost:1313/tags/scalability/</link>
       <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
@@ -114,10 +338,31 @@
       <description></description>
     </item>
     <item>
+      <title>SRE</title>
+      <link>http://localhost:1313/tags/sre/</link>
+      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sre/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Supply Chain</title>
+      <link>http://localhost:1313/tags/supply-chain/</link>
+      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/supply-chain/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>System Design</title>
       <link>http://localhost:1313/tags/system-design/</link>
       <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/system-design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>http://localhost:1313/tags/artificial-intelligence/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/artificial-intelligence/</guid>
       <description></description>
     </item>
     <item>
@@ -135,6 +380,13 @@
       <description></description>
     </item>
     <item>
+      <title>GitOps</title>
+      <link>http://localhost:1313/tags/gitops/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/gitops/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Kubernetes</title>
       <link>http://localhost:1313/tags/kubernetes/</link>
       <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
@@ -142,10 +394,17 @@
       <description></description>
     </item>
     <item>
-      <title>Digital Transformation</title>
-      <link>http://localhost:1313/tags/digital-transformation/</link>
+      <title>Machine Learning</title>
+      <link>http://localhost:1313/tags/machine-learning/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Future Tech</title>
+      <link>http://localhost:1313/tags/future-tech/</link>
       <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/digital-transformation/</guid>
+      <guid>http://localhost:1313/tags/future-tech/</guid>
       <description></description>
     </item>
     <item>
@@ -153,6 +412,20 @@
       <link>http://localhost:1313/tags/microservices/</link>
       <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/microservices/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Observability</title>
+      <link>http://localhost:1313/tags/observability/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/observability/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quantum Computing</title>
+      <link>http://localhost:1313/tags/quantum-computing/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/quantum-computing/</guid>
       <description></description>
     </item>
     <item>
@@ -230,13 +503,6 @@
       <link>http://localhost:1313/tags/enterprise-strategy/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/enterprise-strategy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Innovation</title>
-      <link>http://localhost:1313/tags/innovation/</link>
-      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/innovation/</guid>
       <description></description>
     </item>
     <item>

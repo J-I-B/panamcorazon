@@ -2,22 +2,103 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/access-control/</loc>
-    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/audit-management/</loc>
+    <lastmod>2024-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cloud-security/</loc>
-    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/enterprise-security/</loc>
-    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/enterprise-security/security-compliance-guide/</loc>
+    <lastmod>2024-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/enterprise-security/</loc>
+    <lastmod>2024-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/governance/</loc>
+    <lastmod>2024-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2024-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/regulatory-compliance/</loc>
+    <lastmod>2024-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/risk-management/</loc>
+    <lastmod>2024-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/security-compliance/</loc>
+    <lastmod>2024-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/security-policy/</loc>
+    <lastmod>2024-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/security-standards/</loc>
+    <lastmod>2024-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/application-security/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/code-security/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/enterprise-security/application-security-guide/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/secure-development/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/security-architecture/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/security-testing/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vulnerability-management/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/automation/</loc>
+    <lastmod>2024-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ci/cd/</loc>
+    <lastmod>2024-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/devops/</loc>
+    <lastmod>2024-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/devsecops/</loc>
+    <lastmod>2024-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/enterprise-security/devsecops-implementation/</loc>
+    <lastmod>2024-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/security/</loc>
+    <lastmod>2024-03-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cloud-infrastructure/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cloud-security/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/compliance/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/data-protection/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/enterprise-security/cloud-security-best-practices/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/enterprise-security/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/access-control/</loc>
     <lastmod>2024-03-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/identity-management/</loc>
@@ -29,17 +110,14 @@
     <loc>http://localhost:1313/tags/network-security/</loc>
     <lastmod>2024-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/security-architecture/</loc>
-    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/zero-trust/</loc>
     <lastmod>2024-03-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ar/vr/</loc>
+    <lastmod>2024-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/best-practices/</loc>
+    <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/cloud-architecture/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
@@ -53,20 +131,65 @@
     <loc>http://localhost:1313/tags/cost-optimization/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/devops-sre/</loc>
+    <lastmod>2024-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/digital-transformation/</loc>
+    <lastmod>2024-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/emerging-technologies/</loc>
+    <lastmod>2024-03-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/cloud-architecture/cloud-cost-optimization/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/enterprise-technology/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/extended-reality/</loc>
+    <lastmod>2024-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/xr-enterprise-applications/</loc>
+    <lastmod>2024-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/infrastructure-as-code/</loc>
+    <lastmod>2024-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/infrastructure-as-code-guide/</loc>
+    <lastmod>2024-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/innovation/</loc>
+    <lastmod>2024-03-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/roi/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/compliance/</loc>
+    <loc>http://localhost:1313/tags/terraform/</loc>
+    <lastmod>2024-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/cicd-implementation-guide/</loc>
+    <lastmod>2024-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/edge-computing/</loc>
+    <lastmod>2024-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/edge-computing-enterprise/</loc>
     <lastmod>2024-03-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cloud-architecture/cloud-security/</loc>
     <lastmod>2024-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/iot/</loc>
+    <lastmod>2024-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/testing/</loc>
+    <lastmod>2024-03-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/blockchain/</loc>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/blockchain-enterprise-applications/</loc>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cloud-architecture/distributed-systems/</loc>
     <lastmod>2024-03-22T00:00:00+00:00</lastmod>
@@ -74,11 +197,32 @@
     <loc>http://localhost:1313/tags/distributed-systems/</loc>
     <lastmod>2024-03-22T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/monitoring/</loc>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/reliability/</loc>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/scalability/</loc>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/sre-implementation-guide/</loc>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sre/</loc>
+    <lastmod>2024-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/supply-chain/</loc>
     <lastmod>2024-03-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/system-design/</loc>
     <lastmod>2024-03-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/ai-ml-enterprise-transformation/</loc>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/artificial-intelligence/</loc>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/cloud-native/</loc>
     <lastmod>2024-03-21T00:00:00+00:00</lastmod>
@@ -89,16 +233,37 @@
     <loc>http://localhost:1313/tags/containerization/</loc>
     <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/gitops/</loc>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/gitops-implementation-guide/</loc>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/kubernetes/</loc>
     <lastmod>2024-03-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/digital-transformation/</loc>
+    <loc>http://localhost:1313/tags/machine-learning/</loc>
+    <lastmod>2024-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/implementing-robust-monitoring-strategy/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/future-tech/</loc>
     <lastmod>2024-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/microservices/</loc>
     <lastmod>2024-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cloud-architecture/microservices-enterprise/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/observability/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/quantum-computing/</loc>
+    <lastmod>2024-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/quantum-computing-enterprise-reality/</loc>
     <lastmod>2024-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/software-architecture/</loc>
@@ -144,9 +309,6 @@
     <lastmod>2024-03-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/enterprise-strategy/</loc>
-    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/innovation/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/technology-adoption/</loc>

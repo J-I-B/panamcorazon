@@ -1,14 +1,29 @@
 {
   "categories": [
-    "Fishing Techniques",
-    "Fishing Gear Reviews",
-    "Fishing Locations",
-    "Fish Species",
-    "Fishing Tips & Tricks",
-    "Fishing Stories",
-    "Fishing Equipment",
-    "Fishing Conservation",
-    "Fishing Recipes",
-    "Fishing Safety"
+    {
+      "name": "Digital Transformation",
+      "description": "Insights and strategies for successful enterprise digital transformation initiatives",
+      "slug": "digital-transformation"
+    },
+    {
+      "name": "Cloud Architecture",
+      "description": "Deep dives into cloud-native architectures, microservices, and distributed systems",
+      "slug": "cloud-architecture"
+    },
+    {
+      "name": "Enterprise Security",
+      "description": "Best practices and emerging trends in enterprise security and compliance",
+      "slug": "enterprise-security"
+    },
+    {
+      "name": "DevOps & SRE",
+      "description": "Practical guides for implementing DevOps practices and Site Reliability Engineering",
+      "slug": "devops-sre"
+    },
+    {
+      "name": "Emerging Technologies",
+      "description": "Analysis of cutting-edge technologies and their practical applications in enterprise settings",
+      "slug": "emerging-technologies"
+    }
   ]
-}
+} 
